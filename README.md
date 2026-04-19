@@ -8,7 +8,7 @@ icon: face-smile
 
 This is the handbook for Firma Labs — the people, the work, and the way we go about it. It describes what we're building, how we treat each other, what we expect of ourselves, and what you can expect of us.
 
-If you're considering joining us, read it start to finish. If you're already on the team, return to it when a question comes up that a policy was supposed to have answered. If you're from another company and you want to fork pieces for your own handbook — please do. It's licensed [CC0](https://github.com/firma-labs/handbook/blob/main/LICENSE) on purpose.
+If you're considering joining us, read it start to finish. If you're already on the team, return to it when a question comes up that a policy was supposed to have answered. If you're from another company and you want to fork pieces for your own handbook — please do. It's licensed [CC0](LICENSE/) on purpose.
 
 **Read the handbook:** [handbook.firmalabs.org](https://handbook.firmalabs.org) (GitBook) **Source:** [github.com/firma-labs/handbook](https://github.com/firma-labs/handbook)
 
@@ -16,7 +16,7 @@ If you're considering joining us, read it start to finish. If you're already on 
 
 ## What Firma Labs is
 
-Firma Labs builds the compute chain, the economic models, and the edge hardware that let real communities pursue true freedom. Charter cities, Special Economic Zones, sovereign communities — they use what we make. We're also building our own network state alongside them.
+Firma Labs builds the compute chain, the economic models, and the edge hardware that let real communities pursue true freedom. Charter cities, Special Economic Zones, sovereign communities — will use our modular platfor to build new digital communities and physical [network states](https://www.thenetworkstate.com)
 
 Three divisions do this work:
 
@@ -66,7 +66,7 @@ If you see something that should change, open an issue or a pull request. If you
 
 ## License
 
-This handbook is released under [CC0](https://github.com/firma-labs/handbook/blob/main/LICENSE). You can copy it, fork it, adapt it, and use it for your own company without attribution. We believe handbooks should be open the way source code is open. If our work helps you build a better place to work, that's a win we care about.
+This handbook is released under [CC0](LICENSE/). You can copy it, fork it, adapt it, and use it for your own company without attribution. We believe handbooks should be open the way source code is open. If our work helps you build a better place to work, that's a win we care about.
 
 ***
 
