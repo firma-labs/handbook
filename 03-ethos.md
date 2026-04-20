@@ -1,10 +1,14 @@
-# Chapter 3 — Our Ethos
+---
+icon: heart
+---
+
+# Our Ethos
 
 Five commitments that govern every call we make.
 
 Values describe who we are. The ethos describes how we decide. When a hard call arrives and no policy fits, these are the commitments we measure against.
 
----
+***
 
 ## 01 — Honesty as infrastructure
 
@@ -26,6 +30,6 @@ We hold what we've built in trust. For the communities deploying on it. For the 
 
 The work of Firma Labs is, by every reasonable measure, too much to build. It is built anyway, every day, by people who chose to believe that what looks impossible is simply what has not yet been attempted by the right team with the right posture. Radical faith is not naïveté. It is the only rational response to a mission this large, held by a team this small, moving this fast.
 
----
+***
 
 **Next:** [Chapter 4 — Work & Autonomy →](04-work-and-autonomy.md)
