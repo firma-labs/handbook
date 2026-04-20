@@ -16,7 +16,7 @@ If you're considering joining us, read it start to finish. If you're already on 
 
 ## What Firma Labs is
 
-Firma Labs builds the compute chain, the economic models, and the edge hardware that let real communities pursue true freedom. Charter cities, Special Economic Zones, sovereign communities — will use our modular platfor to build new digital communities and physical [network states](https://www.thenetworkstate.com)
+Firma Labs builds the compute chain, the economic models, and the edge hardware that let real communities pursue true freedom. Charter cities, Special Economic Zones, sovereign communities — will use our modular platform to build new digital communities and physical [network states](https://www.thenetworkstate.com)
 
 Three divisions do this work:
 
