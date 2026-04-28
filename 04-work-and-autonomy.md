@@ -26,6 +26,23 @@ That sentence is the performance policy, compressed. Swing bigger than you thoug
 
 ---
 
+## What we expect when you're afraid
+
+Building things this large brings real fear. We name it because fear unspoken becomes fear unaddressed.
+
+Two failure modes show up in people doing serious work, and both are driven by fear:
+
+- **Paralysis** — discernment that never decides. Endless deliberation. "Let me think about it" that is actually "I am afraid to be wrong." Paralysis feels like humility. It is usually self-protection wearing humility's clothes.
+- **Rashness** — motion without orientation. Hustle, urgency, deciding before observing. Rashness feels like courage. It is usually fear of stillness wearing courage's clothes.
+
+The posture we ask of you is **decisive peace** — fast, in peace, in union, within grace. We move because we have to. We move from peace because the weight of the outcome is not yours to carry alone — the mission carries it, and the team carries it with you. Decisive without peace is rashness. Peace without decision is paralysis. Only the compound survives.
+
+If you find yourself frozen, ask whether you're discerning or self-protecting. If you find yourself charging, ask whether you've oriented. The honest answer is the doorway out.
+
+We would rather you act in peace and get one wrong than freeze in fear and never act. A decision made in trust with a mistake in it is closer to right than a perfectly-researched decision made from fear.
+
+---
+
 ## Agentic orchestration keeps things moving
 
 The way a distributed team of powerful people stays coordinated without a middle-management layer is **agentic orchestration**. Agents handle the coordination, the routing, the handoffs, the reminders. Humans hold the moral framework, the judgment calls, and the work that only humans can do. The result is an org that moves at the speed of decisions, not at the speed of meetings.

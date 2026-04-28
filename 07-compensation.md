@@ -1,10 +1,10 @@
-# Compensation
+# Chapter 7 — Compensation
 
 The offer.
 
-We pay well. We cover the ground you stand on. We build legacy into how you're compensated. You don't trade financial health for mission — you get both.
+Compensation at Firma Labs is being formalized in partnership with legal counsel. The mechanics — salary bands, vesting, distribution schedules, benefits — are described in your individual offer. This chapter describes the philosophy behind how we think about compensation, not the specifics.
 
-***
+---
 
 ## How we measure your return
 
@@ -12,48 +12,32 @@ Most companies tie your value to whatever number moved on a spreadsheet last qua
 
 **Your return at Firma Labs is measured in what actually changed because you were here.** A community with power because you designed the node. A citizen with an identity they own because you built the layer. A district with a working economy because you wrote the settlement logic. A family sleeping somewhere safer because you shipped the thing on time.
 
-***
+---
 
-## Benefits, stated plainly
+## Economic rights, not equity, not tokens
 
-|                           |                                                                                                                                                                |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Salary**                | Real, competitive, paid in **USDC**, globally.                                                                                                                 |
-| **Healthcare**            | The best package we can put together for you. Full medical, dental, vision; mental health coverage included.                                                   |
-| **Time off**              | Full PTO. Take what you need. Our only rule is you actually take it.                                                                                           |
-| **Deployment & missions** | Paid in full — **family travel and accommodation covered.** If we send you, we send your people with you.                                                      |
-| **Retirement**            | 401(k) with company match.                                                                                                                                     |
-| **Connectivity**          | Portable **Starlink** shipped on us — so you can work from anywhere you land.                                                                                  |
-| **Higher education**      | We cover it. Degrees, certifications, courses — if it grows you, we fund it.                                                                                   |
-| **Agentics training**     | Internal training in prompting, skill creation, and building agentic harness teams. The single most compounding skill of the next decade — taught here, by us. |
-| **Daily lunch**           | Healthy lunch on us, every day, at every office location.                                                                                                      |
+We don't deal in equity. We don't issue tokens.
 
-***
+What we offer is **economic rights** — claims on the revenue and value of what you help build. Economic rights are the form. They are how we recognize contribution at Firma Labs.
 
-## The Trust
+Those rights are represented on-chain as **Fragmints**. The Fragmint is the vessel; the economic right is the substance. Fragmints make the rights legible, transferable, and inheritable in the digital fabric we're building. But the right itself — the claim on what you helped make real — is what matters.
 
-{% hint style="info" %}
-**Opens after 90-day review.** After you've been with Firma Labs for 90 days and your first review is complete, a **Trust** is established in your name. You receive distributions from it on a schedule defined in your individual agreement.
+Fragmints are designed to be **inheritance, not trade.** Your weight grows as you contribute. Distributions flow from the revenue of what you helped make real, under the terms described in your individual agreement.
 
-The Trust is designed around a simple idea: your compensation should build something lasting, not just something you spend. A portion vests over time according to terms described in your offer. What you vest, you keep — available through the beneficiaries you name.
+---
 
-This is not a retirement plan. This is how we build generational stability into the compensation of the people who build the future with us.
+## What compensation isn't for
 
-The specific vesting schedule, distribution terms, and successor arrangements for your Trust are defined in your individual agreement with Firma Labs.
-{% endhint %}
+The compensation system at Firma Labs is designed deliberately so that you never have to choose between speaking the truth and protecting what you've earned.
 
-***
+We never want someone to stay in a project they shouldn't be in, or stay silent in a meeting where they should speak, because they're afraid of compromising their economic rights. If the compensation system ever feels like it's silencing you, that's a structural failure on our part — name it, and we'll fix it.
 
-## Fragmints — not equity, not tokens
+Money should never be why someone stays. The mission should be why someone stays. The compensation is just how we make sure the people who carry the mission are taken care of.
 
-We don't deal in equity. We don't give out tokens. We recognize contribution through **Fragmints** — permanent, irrevocable claims on the ecosystem you help build.
-
-Your weight grows as you contribute. Dividends flow from the revenue of everything you helped make real, for as long as it runs. Fragmints are not a trade. They are an **inheritance**.
-
-***
+---
 
 If "impact as return" feels like a phrase companies use to pay less, Firma Labs will feel strange to work at. If it lands, this is the only place that makes sense.
 
-***
+---
 
 **Next:** [Chapter 8 — Growth →](08-growth.md)
